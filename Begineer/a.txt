@@ -1,1 +1,11 @@
-..
+Salesforce Platform Basics
+Platform development Basics
+Get Started with Salesforce Development
+Quick Start: Tour the sample App Gallary
+Data Modeling
+Lighting Experince Customization
+Formulas And Validation
+Flow Builder Basics
+Apex Basics and Datanbases
+Apex Triggers
+Lighting web Components Basics
